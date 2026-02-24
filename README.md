@@ -1,5 +1,5 @@
 # [ICLR 2026] ChannelTokenFormer
-This repository is the official implementation of ['Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness'](https://openreview.net/forum?id=r4ZamwBE8P).
+This repository is the official implementation of [Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness](https://openreview.net/forum?id=r4ZamwBE8P).
 
 ## Requirements
 
